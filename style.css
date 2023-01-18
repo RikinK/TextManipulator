@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.copy_right{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
